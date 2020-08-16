@@ -17,7 +17,7 @@
 
 package org.example.app1;
 
-public class App {
+public class Visitor {
     private String name;
 
     public String getName() {
